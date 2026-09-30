@@ -100,8 +100,4 @@ python main.py --mode ambient --npu-backend burst
 
 ---
 
-## 🏆 Hackathon Submission Deliverables
-- **Brief Project Description:** `docs/SnapSentry_Brief_Project_Description.pdf`
-- **Pitch Deck (PPTX):** `presentation/SnapSentry_Pitch_Deck.pptx`
-- **Pitch Deck (PDF):** `presentation/SnapSentry_Pitch_Deck.pdf`
-- **License:** Apache 2.0
+
